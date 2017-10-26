@@ -4,8 +4,6 @@
  * @email Irusjestswietny@gmail.com
  * --------------------------------------------------
  * All rights reserved! | Wszystkie Prawa Zastrzeżone!
- * If you like - I love you.
- * If you dont like - dog's dig suck.
  ******************************************************************************************/
 session_start();
 
